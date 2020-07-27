@@ -1,4 +1,6 @@
-IFrame.src = 'about: blank';
-IFrame.style.backgroundColor = "transparent";
-IFrame.frameBorder = "0";
-IFrame.allowTransparency = "true";
+
+function goodbye() {
+    document.getElementById("hide").style.display = "none";
+    document.getElementById("hidden").style.display = "block";
+    console.log("working")
+}
