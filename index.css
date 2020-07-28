@@ -70,11 +70,16 @@ a {
     margin-bottom: 5%;
 }
 
+#experience {
+    margin-bottom: 3em;
+}
+
 /* Cover Letter */
 #letter {
     margin-top: 2%;
     margin-left: 5%;
     margin-right: 15%;
+    padding-bottom: 5%;
 }
 
 /* Hide */
