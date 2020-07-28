@@ -114,7 +114,12 @@ margin-left: 5%;
     display: inline;
 }
 
-
+/* Media Query */
+@media screen and (max-width:100%) {
+#head {
+    margin-left: 0%;
+}
+}
 
  
 
