@@ -119,6 +119,9 @@ margin-left: 5%;
 #head {
     margin-left: 0%;
 }
+li {
+    width: 50%;
+}
 }
 
 .headline {
