@@ -121,7 +121,17 @@ margin-left: 5%;
 }
 }
 
- 
+.headline {
+    margin-left: 2em;
+    margin-top: .5em;
+}
 
+.line {
+    margin-left: 20%;
+    margin-top: 5%;
+}
 
+a {
+    color: gold;
+}
   
