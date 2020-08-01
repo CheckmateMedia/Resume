@@ -1,8 +1,9 @@
-
 function goodbye() {
     document.getElementById("hide").style.display = "none";
     document.getElementById("hidden").style.display = "block";
-    console.log("working")
+
+    document.getElementById('hide').removeAttribute("onclick");
+    console.log("working");
 }
 
 function myFunction() {
@@ -12,3 +13,6 @@ function myFunction() {
     document.execCommand("copy");
     alert("Copied the text: " + copyText.value);
 }
+
+
+
